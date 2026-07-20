@@ -1,4 +1,4 @@
-# 🔐 Classical Cipher Lab
+# 🔐 CipherLab
 
 A modular Streamlit-based educational application for classical cryptography. Provides six dedicated interfaces, Caesar, Vigenère, Vernam, Rail Fence, Hill, and Playfair. Each covering theory, step-by-step procedure, a worked example, and a live encrypt/decrypt playground, all powered by a shared `ciphers.py` logic core.
 
@@ -7,7 +7,7 @@ A modular Streamlit-based educational application for classical cryptography. Pr
 ## Project Structure
 
 ```
-classical-cipher-lab/
+CipherLab/
 │
 ├── app.py                          # Main entry point (Home page)
 ├── README.md                       # README file
